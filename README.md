@@ -79,7 +79,5 @@ Copy the `OutputValue` into a browser or use curl to test your first request:
 ```bash
 $ curl -s https://xxxxxxx.execute-api.us-west-2.amazonaws.com/Prod/ping | python -m json.tool
 
-{
-    "pong": "Hello, World!"
-}
+
 ```
