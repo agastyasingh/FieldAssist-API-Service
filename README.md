@@ -1,5 +1,11 @@
-## Overview
+# Overview
 The project is build using Spring Tool Suite 4.0 and maven-aws archetypes are configured to automate streaming to AWS Lambda and provide project structure.
+
+To build and run in local system:
+- $mvn spring-boot:run
+
+To package the project into deployable format on AWS Lambda or any service:
+- $mvn clean package
 
 # apiservice serverless API
 The apiservice project, created with [`aws-serverless-java-container`](https://github.com/aws/serverless-java-container).
