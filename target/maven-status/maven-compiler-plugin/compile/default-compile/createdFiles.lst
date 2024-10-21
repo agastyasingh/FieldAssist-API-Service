@@ -1,0 +1,4 @@
+com\niine\serverless\apiservice\StreamLambdaHandler.class
+com\niine\serverless\apiservice\AppConfig.class
+com\niine\serverless\apiservice\Application.class
+com\niine\serverless\apiservice\controller\PingController.class
